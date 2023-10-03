@@ -13,16 +13,18 @@ img {
 h1 {
   font-weight: var(--fw-bold);
   font-size: 1.4rem;
+  color: var(--Dark-blue);
   
 }
 
 p {
   font-weight: var(--fw-reg);
   font-size: 15px;
-  padding: 0 1rem;
+  padding: .7rem 1rem;
+  color: var(--Grayish-blue);
 }
 
 .desciption {
     text-align: center;
-    padding: 20px 10px;
+    padding: 15px 10px;
 }
