@@ -1,4 +1,28 @@
 .QRCODE {
-    width: 500px;
-    border: 1px solid red;
+  width: 330px;
+  border-radius: 15px;
+  padding: 15px;
+  background-color: var(--White);
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+img {
+  border-radius: 10px;
+}
+
+h1 {
+  font-weight: var(--fw-bold);
+  font-size: 1.4rem;
+  
+}
+
+p {
+  font-weight: var(--fw-reg);
+  font-size: 15px;
+  padding: 0 1rem;
+}
+
+.desciption {
+    text-align: center;
+    padding: 20px 10px;
 }
